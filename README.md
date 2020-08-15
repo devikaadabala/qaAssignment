@@ -1,14 +1,14 @@
 # QA Assignment
 
-**This project uses the TestNG framework where all configurations are carried out(creating test cases, taking a screenshot of a success or failure, generating reports and logs). The project can be cloned using: https://github.com/devikaadabala/
+**This project uses the TestNG framework where all configurations are carried out(creating test cases, taking a screenshot of a success or failure, generating reports and logs). The project can be cloned using: https://github.com/devikaadabala/qaAssignment.git
 This framework consists of below tools**  
 
- TestNG
- Maven
- Log4j 
+ TestNG,
+ Maven,
+ Log4j, 
  Extent reports
  
- browser and url details are passed from properties file
+ Browser and url details are passed from properties file
     
  **command to run tests "mvn clean test"**   
  
