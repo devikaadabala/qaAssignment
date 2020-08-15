@@ -1,0 +1,8 @@
+11:06:54.776 [main] INFO  testCases.NavigateTest - Navigated to the shirts sub category
+11:06:58.784 [main] INFO  testCases.NavigateTest - Filtered Blackin color section
+11:06:59.137 [main] INFO  testCases.NavigateTest - Filters selected:Black
+Clear all
+11:07:00.252 [main] INFO  testCases.NavigateTest - Product Count after filter: 127 Items
+11:07:00.902 [main] INFO  testCases.NavigateTest - Browser closed
+11:07:08.153 [main] INFO  testCases.SearchTest - search for product:: shirts
+11:07:16.599 [main] INFO  testCases.SearchTest - product added to cart successfully 

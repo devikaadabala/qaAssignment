@@ -1,0 +1,2 @@
+11:07:24.610 [main] INFO  testCases.SearchTest - product added to cart successfully 
+11:07:31.365 [main] INFO  testCases.SearchTest - Count of items added in cart = 2

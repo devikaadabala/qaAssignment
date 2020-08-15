@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="57998" started-at="2020-08-15T10:06:33Z" finished-at="2020-08-15T10:07:31Z">
+    <groups>
+    </groups>
+    <test name="NavigateTest" duration-ms="26909" started-at="2020-08-15T10:06:33Z" finished-at="2020-08-15T10:07:00Z">
+      <class name="testCases.NavigateTest">
+        <test-method status="PASS" signature="initialiseBrowser()[pri:0, instance:testCases.NavigateTest@1018bde2]" name="initialiseBrowser" is-config="true" duration-ms="18569" started-at="2020-08-15T10:06:33Z" finished-at="2020-08-15T10:06:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialiseBrowser -->
+        <test-method status="PASS" signature="navigateToSubCategory(java.lang.String)[pri:0, instance:testCases.NavigateTest@1018bde2]" name="navigateToSubCategory" duration-ms="7705" started-at="2020-08-15T10:06:52Z" data-provider="testData" finished-at="2020-08-15T10:07:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Black]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToSubCategory -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testCases.NavigateTest@1018bde2]" name="closeBrowser" is-config="true" duration-ms="191" started-at="2020-08-15T10:07:00Z" finished-at="2020-08-15T10:07:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testCases.NavigateTest -->
+    </test> <!-- NavigateTest -->
+    <test name="SearchTest" duration-ms="30663" started-at="2020-08-15T10:07:01Z" finished-at="2020-08-15T10:07:31Z">
+      <class name="testCases.SearchTest">
+        <test-method status="PASS" signature="initialiseBrowser()[pri:0, instance:testCases.SearchTest@6497b078]" name="initialiseBrowser" is-config="true" duration-ms="5558" started-at="2020-08-15T10:07:01Z" finished-at="2020-08-15T10:07:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialiseBrowser -->
+        <test-method status="PASS" signature="searchForProductAndDifferentSize(java.lang.String)[pri:0, instance:testCases.SearchTest@6497b078]" name="searchForProductAndDifferentSize" duration-ms="24493" started-at="2020-08-15T10:07:06Z" data-provider="testData" finished-at="2020-08-15T10:07:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shirts]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchForProductAndDifferentSize -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testCases.SearchTest@6497b078]" name="closeBrowser" is-config="true" duration-ms="207" started-at="2020-08-15T10:07:31Z" finished-at="2020-08-15T10:07:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testCases.SearchTest -->
+    </test> <!-- SearchTest -->
+  </suite> <!-- Suite1 -->
+</testng-results>
